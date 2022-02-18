@@ -1,6 +1,7 @@
 # Multiplying-two-matrix
 
-## AIM: To write apython program to find the multiplying two array matrix
+## AIM:
+   To write apython program to find the multiplying two array matrix
 
 
 ## ALGORITHM:
